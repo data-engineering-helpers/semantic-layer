@@ -16,3 +16,13 @@ Knowledge sharing - Semantic layer
 * Date: 25 March 2024
 * Link to the article on Substack:
   https://davidsj.substack.com/p/semantic-layers-a-buyers-guide
+
+# Solutions
+
+## Denodo
+* Home page: https://www.denodo.com/en
+* Statement: "One Logical Platform for All Your Data One Modern Solution for Your Business"
+
+## MetricFlow
+* GitHub repository: https://github.com/dbt-labs/metricflow
+* Statement: "MetricFlow is a semantic layer that makes it easy to organize metric definitions"
