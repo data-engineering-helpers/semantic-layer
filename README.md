@@ -2,9 +2,9 @@ Knowledge sharing - Semantic layer
 ==================================
 
 # Overview
-[This project](https://github.com/data-engineering-helpers/data-quality)
-intends to document requirements and referential material to improve
-data quality through implementation of data validation rules
+[This project](https://github.com/data-engineering-helpers/semantic-layer)
+intends to document requirements and referential material about
+the semantic layer (_e.g._, metrics, business rules)
 in the perspective of data engineering on a modern data stack (MDS).
 
 Even though the members of the GitHub organization may be employed by
