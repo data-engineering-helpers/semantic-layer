@@ -1,6 +1,27 @@
 Knowledge sharing - Semantic layer
 ==================================
 
+# Overview
+[This project](https://github.com/data-engineering-helpers/data-quality)
+intends to document requirements and referential material to improve
+data quality through implementation of data validation rules
+in the perspective of data engineering on a modern data stack (MDS).
+
+Even though the members of the GitHub organization may be employed by
+some companies, they speak on their personal behalf and do not represent
+these companies.
+
+## Other repositories of Data Engineering helpers
+* [Data Engineering Helpers - Knowledge Sharing - Data products](https://github.com/data-engineering-helpers/data-products)
+* [Data Engineering Helpers - Knowledge Sharing - Data contracts](https://github.com/data-engineering-helpers/data-contracts)
+* [Data Engineering Helpers - Knowledge Sharing - Data quality](https://github.com/data-engineering-helpers/data-quality)
+* [Data Engineering Helpers - Knowledge Sharing - Architecture principles](https://github.com/data-engineering-helpers/architecture-principles)
+* [Data Engineering Helpers - Knowledge Sharing - Data life cycle](https://github.com/data-engineering-helpers/data-life-cycle)
+* [Data Engineering Helpers - Knowledge Sharing - Data management](https://github.com/data-engineering-helpers/data-management)
+* [Data Engineering Helpers - Knowledge Sharing - Data lakehouse](https://github.com/data-engineering-helpers/data-lakehouse)
+* [Data Engineering Helpers - Knowledge Sharing - Metadata](https://github.com/data-engineering-helpers/metadata)
+* [Data Engineering Helpers - Knowledge Sharing - Data pipeline deployment](https://github.com/data-engineering-helpers/data-pipeline-deployment)
+
 # Articles
 
 ## Analytics Heroes by Modern Data 101 with Matthew Weingarten
