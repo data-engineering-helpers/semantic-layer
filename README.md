@@ -24,6 +24,15 @@ these companies.
 
 # Articles
 
+## What Syntax for the Semantic Layer
+* Title: What Syntax for the Semantic Layer
+* Date: Mar. 2025
+* Author: Benoit Pimpaud
+  ([Benoit Pimpaud on LinkedIn](https://www.linkedin.com/in/pimpaudben/),
+  [Benoit Pimpaud on Medium](https://medium.pimpaudben.fr/))
+* Link to the article on Medium:
+  https://medium.pimpaudben.fr/what-syntax-for-the-semantic-layer-9cbc30976609  
+
 ## Analytics Heroes by Modern Data 101 with Matthew Weingarten
 * Title: Analytics Heroes by Modern Data 101 with Matthew Weingarten
 * Date: Jan. 2025
