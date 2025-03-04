@@ -52,6 +52,17 @@ these companies.
 * Link to the article on Substack:
   https://davidsj.substack.com/p/semantic-layers-a-buyers-guide
 
+## Making Sense of the Semantic Layer
+* That is one of the seminal articles starting the concept of Semantic layer
+* Title: Design Tip #158 Making Sense of the Semantic Layer
+* Date: Aug. 2013
+* Author: Joy Mundi
+  (she has retired long ago by now;
+  [Joy Mundi on the Kimball Group site](https://www.kimballgroup.com/author/joy/),
+  [Joy Mundi on LinkedIn](https://www.linkedin.com/in/joy-mundy-226bb1/))
+* Link to the Kimball Group post:
+  https://www.kimballgroup.com/2013/08/design-tip-158-making-sense-of-the-semantic-layer/
+
 # Solutions
 
 ## Cube
