@@ -24,6 +24,14 @@ these companies.
 
 # Articles
 
+## Knowledge mesh and data products
+* Title: Knowledge mesh and data products
+* Date: Mar. 2025
+* Author: Andrea Gioia
+  ([Andrea Gioia on LinkedIn](https://www.linkedin.com/in/andreagioia/))
+* Link to the post on LinkedIn:
+  https://www.linkedin.com/posts/andreagioia_thedatajoy-dataproducts-ontology-activity-7303666970078449664-shYT
+
 ## What Syntax for the Semantic Layer
 * Title: What Syntax for the Semantic Layer
 * Date: Mar. 2025
