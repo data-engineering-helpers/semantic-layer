@@ -69,6 +69,13 @@ these companies.
 * Link to the article on Substack:
   https://davidsj.substack.com/p/semantic-layers-a-buyers-guide
 
+## tbc
+* Title: tbc
+* Oct. 2024
+* Author: tbc
+* Link to the article on Medium:
+  https://medium.com/@community_md101/the-semantic-layer-movement-the-rise-current-state-f8dbbb989b2e
+
 ## Making Sense of the Semantic Layer
 * That is one of the seminal articles starting the concept of Semantic layer
 * Title: Design Tip #158 Making Sense of the Semantic Layer
