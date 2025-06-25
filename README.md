@@ -89,6 +89,17 @@ these companies.
 
 # Solutions
 
+## Boring semantic layer
+* GitHub repository:
+* Main contributors:
+  * Julien Hurault
+    ([Julien Hurault on LinkedIn](https://www.linkedin.com/in/julienhuraultanalytics/),
+    [Julien Hurault on Substack](https://substack.com/@juhache))
+  * David Krevitt
+    ([David Krevitt on LinkedIn](),
+    [David Krevitt on Substack](https://substack.com/@davidkrevitt))
+* Article on Substack: https://juhache.substack.com/p/the-boring-semantic-layer
+
 ## Cube
 * Home page: https://cube.dev
 * GitHub repository: https://github.com/cube-js/cube
