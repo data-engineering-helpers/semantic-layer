@@ -24,6 +24,24 @@ these companies.
 
 # Articles
 
+## BI as code
+* Date: Aug. 2025
+* Author: Matt Martin
+  ([Matt Martin on LinkedIn](https://www.linkedin.com/in/mattmartin14/),
+  [Matt Martin's blog on Substack](https://substack.com/@performancede))
+* Link to the post on LinkedIn:
+  https://www.linkedin.com/posts/mattmartin14_duckdb-dataengineering-copilot-activity-7362431315020771328-OcDk/
+* Verbatim:
+> I am finding that I'm starting to do a lot more charting in python notebooks now than I used to; reason being is its brain-dead easy
+> to just put a quick prompt on copilot to build you something. As an example, if I have a duckdb query working for me and I want to chart the results,
+> I can with this simple copilot prompt in the cell:
+> "create a bar chart with matplotlib that shows order counts by month; add a trend line showing the average order count by month". 
+> In the screenshot below, you will notice that copilot is smart enough to interpret my natural language prompt and examine the SQL statement
+> above and match my request to the actual fields (I did not have to provide a mapping whatsoever). This is literally done in less than a couple seconds
+> and I did not have to go crack open another BI tool like Tableau.
+> 
+> This is been accelerating my Q/A of datasets much faster now; I'm finding less and less a need for traditional BI tools going forward.
+
 ## Knowledge mesh and data products
 * Title: Knowledge mesh and data products
 * Date: Mar. 2025
