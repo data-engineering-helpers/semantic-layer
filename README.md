@@ -24,6 +24,15 @@ these companies.
 
 # Articles
 
+## Unlocking the Power of Data in Biopharma
+* Title: Unlocking the Power of Data in Biopharma: Why a Semantic Layer (Finally) Makes It Click
+* Date: Aug. 2025
+* Author: Nnaemezue (Mezue) Obi-Eyisi
+  ([Nnaemezue Obi-Eyisi on LinkedIn](https://www.linkedin.com/in/nobieyisi/),
+  [Nnaemezue Obi-Eyisi on Medium]())
+* Blog post on Medium:
+  https://afroinfotech.medium.com/unlocking-the-power-of-data-in-biopharma-why-a-semantic-layer-finally-makes-it-click-b179d4e88208
+
 ## BI as code
 * Date: Aug. 2025
 * Author: Matt Martin
@@ -41,6 +50,17 @@ these companies.
 > and I did not have to go crack open another BI tool like Tableau.
 > 
 > This is been accelerating my Q/A of datasets much faster now; I'm finding less and less a need for traditional BI tools going forward.
+
+## Build a Semantic Layer on Databricks
+* Title: Can You Build a Semantic Layer on Databricks Without a Third-Party Tool?
+* Date: Jul. 2025
+* Author: Nnaemezue (Mezue) Obi-Eyisi
+  ([Nnaemezue Obi-Eyisi on LinkedIn](https://www.linkedin.com/in/nobieyisi/),
+  [Nnaemezue Obi-Eyisi on Medium]())
+* Blog post on Medium:
+  https://afroinfotech.medium.com/unlocking-the-power-of-data-in-biopharma-why-a-semantic-layer-finally-makes-it-click-b179d4e88208
+* Post on LinkedIn:
+  https://www.linkedin.com/posts/nobieyisi_can-you-build-a-semantic-layer-on-databricks-activity-7349061083174772770-nt17/
 
 ## Knowledge mesh and data products
 * Title: Knowledge mesh and data products
@@ -87,10 +107,10 @@ these companies.
 * Link to the article on Substack:
   https://davidsj.substack.com/p/semantic-layers-a-buyers-guide
 
-## tbc
-* Title: tbc
-* Oct. 2024
-* Author: tbc
+## The Semantic Layer Movement: The Rise & Current State
+* Title: The Semantic Layer Movement: The Rise & Current State
+* Date: Oct. 2024
+* Author: [Animesh Kumar](https://www.linkedin.com/in/anismiles/)
 * Link to the article on Medium:
   https://medium.com/@community_md101/the-semantic-layer-movement-the-rise-current-state-f8dbbb989b2e
 
