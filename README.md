@@ -6,7 +6,8 @@ Knowledge sharing - Semantic layer
 intends to document requirements and referential material about
 the semantic layer (_e.g._, metrics, business rules)
 in the perspective of data engineering on a modern data stack (MDS).
-The semantic layer is also sometimes referred to as ontology.
+The semantic layer is also sometimes referred to as
+[ontology](https://en.wikipedia.org/wiki/Ontology_(information_science).
 
 Even though the members of the GitHub organization may be employed by
 some companies, they speak on their personal behalf and do not represent
