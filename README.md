@@ -27,7 +27,7 @@ these companies.
 ## References
 
 ### Ontology
-* [Wikipedia - Ontology (information science)](https://en.wikipedia.org/wiki/Ontology_(information_science)
+* [Wikipedia - Ontology (information science)](https://en.wikipedia.org/wiki/Ontology_(information_science))
 > More simply, an ontology is a way of showing the properties of a subject area and how they are related,
 > by defining a set of terms and relational expressions that represent the entities in that subject area.
 
