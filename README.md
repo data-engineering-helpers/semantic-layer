@@ -33,6 +33,14 @@ these companies.
 
 # Articles
 
+## Practical Guide to Semantic Layers
+* Title: Practical Guide to Semantic Layers: From Definition to Demo
+* Author: Rasmus Engelbrecht
+  ([Rasmus Engelbrecht on LinkedIn](https://www.linkedin.com/in/rasmusengelbrechtsorensen/),
+  [Rasmus Engelbrecht on Substack](https://substack.com/@rasmusengelbrecht))
+* Date: Oct. 2025
+* Blog post on Substack: https://rasmusengelbrecht.substack.com/p/practical-guide-to-semantic-layers
+
 ## Unlocking the Power of Data in Biopharma
 * Title: Unlocking the Power of Data in Biopharma: Why a Semantic Layer (Finally) Makes It Click
 * Date: Aug. 2025
