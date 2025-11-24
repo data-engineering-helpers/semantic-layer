@@ -151,7 +151,7 @@ these companies.
 # Solutions
 
 ## Boring semantic layer
-* GitHub repository:
+* GitHub repository: https://github.com/boringdata/boring-semantic-layer
 * Main contributors:
   * Julien Hurault
     ([Julien Hurault on LinkedIn](https://www.linkedin.com/in/julienhuraultanalytics/),
