@@ -33,6 +33,12 @@ these companies.
 
 # Articles
 
+## Databricks friendly analytics pipeline for startup folks and learners
+* Author: [Luis Lopez Pons](https://www.linkedin.com/in/luislopezpons/)
+* Date: Nov. 2025
+* LinkedIn post: https://www.linkedin.com/posts/luislopezpons_erp-growthmetrics-mrr-activity-7394297915852341248-PVY8/
+* GitHub repository: https://github.com/Caliu-Data/databricks-startups-metrics/
+
 ## Practical Guide to Semantic Layers
 * Title: Practical Guide to Semantic Layers: From Definition to Demo
 * Author: Rasmus Engelbrecht
