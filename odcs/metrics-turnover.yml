@@ -1,0 +1,56 @@
+version: 1.1
+
+source: mycatalog.metrics.turnover
+
+comment: specifies the TurnOver (TO) metrics
+
+dimensions:
+  - name: turnover_ts
+    expr: turnover_ts
+    comment: "Timestamp when the TurnOver (TO) is calculated"
+    display_name: TurnOver
+  - name: order_id
+    expr: order_id
+    comment: order ID
+    display_name: Order ID
+  - name: turnover_euros
+    expr: turnover_euros
+    comment: TurnOver (TO), converted in Euros when needed
+    display_name: TurnOver (Euros)
+  - name: country_code
+    expr: country_code
+    comment: "Country code where the order was made.\
+    \ Ref: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2"
+    display_name: Country code
+    synonyms:
+      - ISO-3166-2 country code
+  - name: product_type
+    expr: product_type
+    comment: type of product which has been sold
+    display_name: Product type
+
+measures:
+  - name: measure__turnover_euros
+    expr: SUM(turnover_euros)
+    comment: "TurnOver in Euros"
+    display_name: TurnOver (Euros)
+    format:
+      type: number
+    synonyms:
+      - TO
+      - Sales
+      - Sales volume
+  - name: measure__nb_receipts
+    expr: COUNT(DISTINCT order_id)
+    comment: "Number of receipts"
+    display_name: Number of receipts
+    synonyms:
+      - Number of orders
+      - Order Count
+      - Total number of orders
+  - name: measure__average_basket_value
+    expr: "MEASURE('measure__turnover_euros')/NULLIF(MEASURE('measure__nb_receipts'),0)"
+    comment: Average basket value in Euros
+    display_name: Average basket value
+    synonyms:
+      - ABV
