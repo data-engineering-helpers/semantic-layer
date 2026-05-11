@@ -9,6 +9,7 @@
   * [References](#references)
     * [Ontology](#ontology)
   * [Articles](#articles)
+    * [How to build a semantic layer, step by step](#how-to-build-a-semantic-layer-step-by-step)
     * [Databricks friendly analytics pipeline for startup folks and learners](#databricks-friendly-analytics-pipeline-for-startup-folks-and-learners)
     * [Practical Guide to Semantic Layers](#practical-guide-to-semantic-layers)
     * [Unlocking the Power of Data in Biopharma](#unlocking-the-power-of-data-in-biopharma)
@@ -66,6 +67,12 @@ these companies.
 > expressions that represent the entities in that subject area.
 
 ## Articles
+
+### How to build a semantic layer, step by step
+
+* [LinkedIn post - How to build a semantic layer, step by step](https://www.linkedin.com/pulse/how-build-semantic-layer-step-by-step-guide-alex-merced-gcjje/)
+  * Author: [Alex Merced](https://www.linkedin.com/in/alexmerced/)
+  * Date: May 2026
 
 ### Databricks friendly analytics pipeline for startup folks and learners
 
