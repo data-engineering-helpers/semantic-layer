@@ -74,6 +74,16 @@ these companies.
   * Author: [Alex Merced](https://www.linkedin.com/in/alexmerced/)
   * Date: May 2026
 
+### Building the Semantic Layer on Databricks
+
+* Title: Building the Semantic Layer on Databricks
+* [Medium - Semantic layer on DataBricks](https://medium.com/@eliswanson/building-the-semantic-layer-on-databricks-439c7ce286f3)
+* Date: Apr. 2026
+* Author: Eli Swanson
+* Material:
+  * [DataBricks - Unity Catalog Business Semantics](https://www.databricks.com/product/unity-catalog/business-semantics)
+  * [GitHub - dbxmetagen](https://github.com/databricks-industry-solutions/dbxmetagen)
+
 ### Databricks friendly analytics pipeline for startup folks and learners
 
 * Author: [Luis Lopez Pons](https://www.linkedin.com/in/luislopezpons/)
@@ -210,6 +220,11 @@ these companies.
     ([David Krevitt on LinkedIn](https://www.linkedin.com/in/david-krevitt-a11b8a50/),
     [David Krevitt on Substack](https://substack.com/@davidkrevitt))
 * [Article on Substack](https://juhache.substack.com/p/the-boring-semantic-layer)
+
+### Unity Catalog Business Semantics
+
+* [DataBricks - Unity Catalog Business Semantics](https://www.databricks.com/product/unity-catalog/business-semantics)
+* [GitHub - dbxmetagen](https://github.com/databricks-industry-solutions/dbxmetagen)
 
 ### Metalayer
 
